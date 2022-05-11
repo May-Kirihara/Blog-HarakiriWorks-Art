@@ -1,24 +1,16 @@
 ﻿<html>
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="./PlayWithPyScript/pyscript.css" />
-    <script defer src="./PlayWithPyScript/pyscript.js"></script>
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
 </head>
+
 <body>
     <h2> 今はまだ、なにもないよ。あるけれど、ね。 </h2>
-    <p> でらんー </p>
+    <p> でらんー </p><br />
 
-    <py-script>
-        print("Let's compute π:")
-        def compute_pi(n):
-        pi = 2
-        for i in range(1,n):
-        pi *= 4 * i ** 2 / (4 * i ** 2 - 1)
-        return pi
+<py-script> print('Hello, World!') </py-script>
 
-        pi = compute_pi(100000)
-        s = f"π is approximately {pi:.3f}"
-        print(s)
-    </py-script>
+
 </body>
 </html>
