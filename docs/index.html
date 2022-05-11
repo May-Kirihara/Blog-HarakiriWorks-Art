@@ -9,8 +9,13 @@
     <h2> 今はまだ、なにもないよ。あるけれど、ね。 </h2>
     <p> でらんー </p><br />
 
-<py-script>
-print("Let's compute π:")
+    <b><p>Today is <u><label id='today'></label></u></p></b>
+    <br>
+    <div id="pi" class="alert alert-primary"></div>
+    <py-script>
+import datetime as dt
+pyscript.write('today', dt.date.today().strftime('%A %B %d, %Y'))
+
 def compute_pi(n):
     pi = 2
     for i in range(1,n):
@@ -18,9 +23,8 @@ def compute_pi(n):
     return pi
 
 pi = compute_pi(100000)
-s = f"π is approximately {pi:.3f}"
-print(s)
-</py-script>
+pyscript.write('pi', f'π is approximately {pi:.3f}')
+    </py-script>
 
 
 </body>
