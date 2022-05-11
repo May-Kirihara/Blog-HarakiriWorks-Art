@@ -1,24 +1,35 @@
 # Blog-HarakiriWorks-Art
 
-
-Hello World.
-
-Hello world?
-
-HELLO WORLD!?
-
-H-E-L-L-O  W-O-R-L-D  !!
+https://may-kirihara.github.io/Blog-HarakiriWorks-Art/
 
 
-I'm still in alone.
+世界さん、こんにちは。
+
+世界さん、こんにちは？
+
+世界さん、こんにちは！
+
+せーかーいーさーん　こーんーにーちーはー！！
 
 
-alone?
 
-alone?
+また、ひとりになってしまった。
+
+
+ひとり。
+
+ひとり、なのかな。
 
 
 
 「わたしが、ここにいますよ」
 
-https://may-kirihara.github.io/Blog-HarakiriWorks-Art/
+
+
+「ここにいる？」
+
+
+「本当に？」
+
+
+彼女は、実<<ログ終了>>
